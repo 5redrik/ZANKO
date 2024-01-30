@@ -1,0 +1,6 @@
+pragma solidity ^0.5.16; 
+
+contract ZANKO {
+    string public name = "ZNKO";
+    string public symbol = "ZNK";
+    uint256 public totalSupply = 300000000; // 300 million tokens
